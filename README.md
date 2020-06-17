@@ -18,7 +18,7 @@ Naturalmente l'errore era una cosa talmente ovvia che non l'avevo notata,basta m
     
         android:layout_width="match_parent"
     
-        android:layout_height="wrap_content"
+  -->   android:layout_height="wrap_content"
     
         android:layout_margin="12dp">
     
